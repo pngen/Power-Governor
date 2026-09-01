@@ -1,0 +1,18 @@
+# Build artifacts
+build*/
+install/
+*.exe
+*.obj
+*.lib
+*.pdb
+
+# Local scratch / build script logs
+smoke.cpp
+_*.bat
+*.bin
+*.tmp
+*.user
+bld_out.txt
+blddbg.txt
+cfg_out.txt
+cfgdbg.txt
